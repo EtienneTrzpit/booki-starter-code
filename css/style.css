@@ -229,6 +229,7 @@ auteur: Etienne Trzpit****/
 .filter i{
     margin-right: 10px;
 }
+
 button{
     padding:15px;
     margin-left: 3px;
@@ -239,7 +240,7 @@ button{
     font-size: 17px;
 }
 
-button:hover{
+.filter button:hover{
     background-color:rgba(0, 101, 252, 0.1);
 }
 
