@@ -454,4 +454,17 @@ auteur: Etienne Trzpit*/
     main header{
         margin-top: 40px;
     }
+
+    .filter{
+        flex-direction: column;
+    }
+
+    .hebergements-and-populaires{
+        display: flex;
+        flex-flow: column wrap;
+    }
+
+    .populaires{
+        order: -1;
+    }
 }
