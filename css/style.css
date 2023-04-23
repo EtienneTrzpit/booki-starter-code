@@ -483,4 +483,12 @@ auteur: Etienne Trzpit*/
     footer{
         flex-direction: column;
     }
+
+    .populaires-cards .card{
+        width: 100%;
+    }
+
+    .hebergements__cards .card{
+        width: 100%;
+    }
 }
