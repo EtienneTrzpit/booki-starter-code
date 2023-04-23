@@ -467,4 +467,20 @@ auteur: Etienne Trzpit*/
     .populaires{
         order: -1;
     }
+
+    .hebergements__cards{
+        flex-direction: column;
+    }
+
+    .populaires-cards{
+        flex-direction: column;
+    }
+
+    .activites{
+        flex-direction: column;
+    }
+
+    footer{
+        flex-direction: column;
+    }
 }
