@@ -198,6 +198,7 @@ form{
     border-radius: 0px 20px 20px 0px;
     background-color: #0065FC;
     color: white;
+    margin-left: 0px;
 }
 
 .form__button::after{
@@ -205,7 +206,10 @@ form{
 }
 
 .form__search{
-    border: 0px;
+    border-top: thin solid var(--main-bg-color);
+    border-bottom: thin solid var(--main-bg-color);
+    border-left: none;
+    border-right: none;
     text-align: center;
     font-family: 'Raleway';
     font-size: 18px;
@@ -577,6 +581,7 @@ auteur: Etienne Trzpit*/
         content: "\f002";
         font-family: "Font Awesome 5 Free"; 
         font-weight: 900;
+        margin-left: -4px;
     }
 
     .form__button{
