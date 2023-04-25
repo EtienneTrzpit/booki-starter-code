@@ -491,4 +491,29 @@ auteur: Etienne Trzpit*/
     .hebergements__cards .card{
         width: 100%;
     }
+
+    form{
+        justify-content: center;
+    }
+
+    .filter__buttons{
+        justify-content: center;
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    .filter__buttons button{
+        flex-basis: 45%;
+        margin: 5px 5px 10px 5px;
+        text-align: left;
+    }
+
+    .filter__title{
+        margin-left: 30px;
+    }
+
+    .info{
+        text-align: center;
+    }
+
 }
