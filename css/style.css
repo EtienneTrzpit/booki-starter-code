@@ -200,6 +200,10 @@ form{
     color: white;
 }
 
+.form__button::after{
+    content: "Rechercher";
+}
+
 .form__search{
     border: 0px;
     text-align: center;
@@ -562,5 +566,16 @@ auteur: Etienne Trzpit*/
 
     .form__search{
         width: 80%;
+    }
+
+    .form__button::after{
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        content: "\f002";
+        font-family: "Font Awesome 5 Free"; 
+        font-weight: 900;
     }
 }
