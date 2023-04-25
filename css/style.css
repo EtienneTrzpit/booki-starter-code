@@ -545,4 +545,22 @@ auteur: Etienne Trzpit*/
         padding-bottom: 20px;
     }
 
+    form{
+        margin: 40px 40px 0px 40px;
+    }
+
+    form > i {
+        width: 10%;
+        padding: 0px;
+        text-align: center;
+        padding: 25px 0px 0px 0px;
+    }
+
+    .form__button{
+        width: 10%;
+    }
+
+    .form__search{
+        width: 80%;
+    }
 }
