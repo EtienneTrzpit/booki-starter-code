@@ -362,7 +362,8 @@ footer{
 }
 
 .footer__bloc{
-    padding-right: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
     margin:0px;
     width: 33%;
 }
@@ -415,6 +416,17 @@ footer h3{
     .populaires-cards .card-subtitle {
         font-size: 13px;
     }
+}
+
+/* Medium devices (tablets, less/equal than 1024px)
+auteur: Etienne Trzpit*/
+
+@media (max-width: 1024px) {
+    .filter{
+        display: flex;
+        flex-direction: column;
+    }
+    
 }
 
 /* Small devices (phones, less than 768px) 
