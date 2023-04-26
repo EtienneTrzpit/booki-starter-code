@@ -610,4 +610,8 @@ auteur: Etienne Trzpit*/
     .activites__card img{
         height: 141px;
     }
+
+    .section-title{
+        margin-left: 20px;
+    }
 }
