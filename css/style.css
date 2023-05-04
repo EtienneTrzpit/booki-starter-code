@@ -147,7 +147,7 @@ auteur: Etienne Trzpit ************/
 
 a[href="#activites"]{
     padding-top: 16px;
-    size:16px;
+    font-size: 16px;
     text-decoration: none;
     margin-left: 20px;
 }
@@ -156,7 +156,7 @@ a[href="#hebergements"]{
     padding-top: 16px;
     margin-right: 20px;
     color: var(--main-color);
-    size:16px;
+    font-size: 16px;
     text-decoration: none;
 }
 
