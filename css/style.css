@@ -117,20 +117,14 @@ body {
     margin-bottom: 5px;
 }
 
-/*******Général**************
+/*******Titre**************
 auteur: Etienne Trzpit******/
 
 main header{
     margin-top: 60px;
 }
 
-.info{
-    margin-bottom: 30px;
-}
 
-.info i{
-    margin-right: 10px;
-}
 /*****Header*********************** 
 auteur: Etienne Trzpit ************/
 .header{
@@ -265,6 +259,11 @@ button{
 
 .info{
     display: flex;
+    margin-bottom: 30px;
+}
+
+.info i{
+    margin-right: 10px;
 }
 
 /******Hébergements**************
