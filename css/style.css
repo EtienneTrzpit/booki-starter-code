@@ -144,17 +144,20 @@ auteur: Etienne Trzpit ************/
     padding:0px;
     list-style-type: none;
 }
-.nav__item{
+
+a[href="#activites"]{
     padding-top: 16px;
-    margin-left:34.5px;
     size:16px;
+    text-decoration: none;
+    margin-left: 20px;
 }
 
-.nav__item--blue{
+a[href="#hebergements"]{
     padding-top: 16px;
-    margin-right: 34.5px;
+    margin-right: 20px;
     color: var(--main-color);
     size:16px;
+    text-decoration: none;
 }
 
 .nav ul >li{
