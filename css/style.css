@@ -221,6 +221,14 @@ form{
     color: black;
 }
 
+.icon--blue{
+    color: var(--main-color);
+}
+
+.icon--black{
+    color: black;
+}
+
 /******Filters**************
 auteur: Etienne Trzpit****/
 
