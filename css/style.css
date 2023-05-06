@@ -460,12 +460,10 @@ footer h3{
     .populaires-cards .card-subtitle {
         font-size: 13px;
     }
-}
 
 /* Medium devices (tablets, less/equal than 1024px)
 auteur: Etienne Trzpit*/
 
-@media (max-width: 1024px) {
     .filter{
         display: flex;
         flex-direction: column;
@@ -587,6 +585,7 @@ auteur: Etienne Trzpit*/
         justify-content: center;
         margin-left: 50px;
         margin-right: 50px;
+        margin-bottom: 0px;
     }
 
     .hebergements-and-populaires section{
@@ -656,10 +655,6 @@ auteur: Etienne Trzpit*/
 
     .info i{
         margin-top: 23px;
-    }
-
-    .info{
-        margin-bottom: 0px;
     }
 
     .populaires-title{
