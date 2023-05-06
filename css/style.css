@@ -469,6 +469,10 @@ auteur: Etienne Trzpit*/
         display: flex;
         flex-direction: column;
     }
+
+    .activites__card img{
+        height: 200px;
+    }
     
 }
 
