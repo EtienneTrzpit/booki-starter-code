@@ -526,7 +526,13 @@ auteur: Etienne Trzpit*/
 
     .title{
         margin-top: 40px;
-        text-align: center;    
+        text-align: justify;
+        margin-right: 120px;    
+        margin-left: 20px;
+    }
+
+    .title p{
+        margin-left: -10px;
     }
 
     .filter{
@@ -578,6 +584,8 @@ auteur: Etienne Trzpit*/
         justify-content: center;
         display: flex;
         flex-flow: row wrap;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .filter__buttons button{
@@ -587,7 +595,7 @@ auteur: Etienne Trzpit*/
     }
 
     .filter__title{
-        margin-left: 20px;
+        margin-left: 45px;
         margin-top: 0px;
     }
 
@@ -629,7 +637,7 @@ auteur: Etienne Trzpit*/
     }
 
     form{
-        margin: 40px 40px 0px 40px;
+        margin: 40px 45px 0px 45px;
     }
 
     form > i {
