@@ -490,6 +490,10 @@ auteur: Etienne Trzpit*/
         align-items: center;
     }
 
+    .header__logo{
+        content: url("../images/logo/Booki@3x.png");
+    }
+
     nav{
         width: 100%;
     }
