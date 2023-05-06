@@ -127,6 +127,12 @@ auteur: Etienne Trzpit******/
 
 /*****Header*********************** 
 auteur: Etienne Trzpit ************/
+
+.main-container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
 header{
     display:flex;
     justify-content:space-between;
@@ -352,7 +358,7 @@ auteur: Etienne Trzpit****/
 auteur: Etienne Trzpit***/
 
 .header__activites{
-    margin-left: 0px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 
