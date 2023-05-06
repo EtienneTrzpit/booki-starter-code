@@ -507,6 +507,7 @@ auteur: Etienne Trzpit*/
         flex-basis: 50%;
         text-align: center;
         border-bottom: thin solid #D9D9D9;
+        padding-bottom: 15px;
     }
 
     .nav__item:hover{
