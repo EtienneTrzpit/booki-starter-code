@@ -287,12 +287,17 @@ button{
 
 .info p{
     margin-top: 18px;
+    font-size: 16px;
 }
 
 
 
 /******Hébergements**************
 auteur: Etienne Trzpit****/
+
+.hebergements .section-title{
+    margin-left: 10px;
+}
 
 .hebergements__cards{
     display: flex;
@@ -327,11 +332,6 @@ auteur: Etienne Trzpit****/
     font-size:  18px;
 }
 
-.section__title{
-    margin-top: 0px;
-    font-size: 22px;
-    margin-left: 10px;
-}
 
 .hebergements a{
     margin-left: 10px;
