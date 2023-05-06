@@ -285,8 +285,10 @@ button{
 }
 
 .info p{
-    margin-top: 25px;
+    margin-top: 18px;
 }
+
+
 
 /******Hébergements**************
 auteur: Etienne Trzpit****/
@@ -521,6 +523,10 @@ auteur: Etienne Trzpit*/
 
     .filter{
         flex-direction: column;
+    }
+
+    .info p{
+        margin-top: 25px;
     }
 
     .hebergements-and-populaires{
