@@ -517,7 +517,7 @@ auteur: Etienne Trzpit*/
 
 
     .title{
-        margin-top: 40px;
+        margin-top: 30px;
         text-align: justify;
         margin-right: 120px;    
         margin-left: 20px;
@@ -542,6 +542,7 @@ auteur: Etienne Trzpit*/
 
     .populaires{
         order: -1;
+        margin-top: 30px;
     }
 
     .hebergements__cards{
