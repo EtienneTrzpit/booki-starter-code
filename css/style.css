@@ -133,7 +133,7 @@ auteur: Etienne Trzpit ************/
     margin: 0 auto;
 }
 
-header{
+.presentation{
     display:flex;
     justify-content:space-between;
 }
@@ -479,7 +479,7 @@ auteur: Etienne Trzpit*/
         padding: 0px;
     }
 
-    header{
+    .presentation{
         display: flex;
         flex-direction: column;
         align-items: center;
