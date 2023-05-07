@@ -394,7 +394,7 @@ auteur: Etienne Trzpit***/
 /****Footer**************
 auteur: Etienne Trzpit***/
 
-footer{
+.footer__menu{
     display:flex;
     justify-content: flex-start;
     border: thin solid var(--main-bg-color);
@@ -408,7 +408,7 @@ footer{
     width: 33%;
 }
 
-footer h3{
+.footer__menu h3{
     font-size: 18px;
 }
 .footer__list{
@@ -557,7 +557,7 @@ auteur: Etienne Trzpit*/
         flex-direction: column;
     }
 
-    footer{
+    .footer__menu{
         flex-direction: column;
     }
 
@@ -635,7 +635,7 @@ auteur: Etienne Trzpit*/
         margin-bottom: 0px;
     }
 
-    footer{
+    .footer__menu{
         padding-top: 20px;
         padding-bottom: 20px;
     }
