@@ -515,9 +515,6 @@ auteur: Etienne Trzpit*/
         border-top: none;
     }
 
-    .section-title + p{
-        padding: 0px 80px 0px 30px;
-    }
 
     .title{
         margin-top: 40px;
@@ -527,7 +524,7 @@ auteur: Etienne Trzpit*/
     }
 
     .title p{
-        margin-left: -10px;
+        margin-left: 10px;
     }
 
     .filter{
@@ -579,8 +576,8 @@ auteur: Etienne Trzpit*/
         justify-content: center;
         display: flex;
         flex-flow: row wrap;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .filter__buttons button{
@@ -590,14 +587,14 @@ auteur: Etienne Trzpit*/
     }
 
     .filter__title{
-        margin-left: 45px;
+        margin-left: 25px;
         margin-top: 0px;
     }
 
     .info{
         justify-content: left;
-        margin-left: 35px;
-        margin-right: 35px;
+        margin-left: 25px;
+        margin-right: 25px;
         margin-bottom: 0px;
     }
 
@@ -614,7 +611,7 @@ auteur: Etienne Trzpit*/
     }
 
     .section-title{
-        margin-left: 0px;
+        margin-left: 10px;
     }
 
     .header__activites{
@@ -644,7 +641,7 @@ auteur: Etienne Trzpit*/
     }
 
     form{
-        margin: 40px 45px 0px 45px;
+        margin: 40px 25px 0px 25px;
     }
 
     form > i {
