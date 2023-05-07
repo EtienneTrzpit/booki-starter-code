@@ -300,6 +300,8 @@ auteur: Etienne Trzpit****/
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .hebergements__cards .card{
@@ -329,10 +331,6 @@ auteur: Etienne Trzpit****/
     font-size:  18px;
 }
 
-
-.hebergements a{
-    margin-left: 10px;
-}
 
 a[href="#"]{
     text-decoration: none;
