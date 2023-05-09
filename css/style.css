@@ -269,7 +269,6 @@ button{
 
 .form__info{
     border: thin solid var(--filter-bg-color);
-    width: 15x;
     height: 15px;
     padding: 10px 10px 0px 10px;
     border-radius: 25px;
