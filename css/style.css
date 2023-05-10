@@ -151,7 +151,7 @@ auteur: Etienne Trzpit ************/
     margin-right: 10px;
 }
 
-.nav-item--blue{
+.nav-item-blue{
     margin-right: 70px;
 }
 
@@ -172,7 +172,7 @@ a[href="#hebergements"]{
     border-top: medium solid rgb(0,0,0);
 }
 
-.nav-item--blue:hover{
+.nav-item-blue:hover{
     border-top: medium solid var(--main-color);
 }
 
@@ -509,7 +509,7 @@ auteur: Etienne Trzpit*/
         border-top: none;
     }
 
-    .nav-item--blue:hover{
+    .nav-item-blue:hover{
         border-bottom: medium solid var(--main-color);
         border-top: none;
     }
