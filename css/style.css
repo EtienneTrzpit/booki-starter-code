@@ -686,5 +686,8 @@ auteur: Etienne Trzpit*/
         height: 141px;
     }
 
+    .populaires-cards .card-subtitle{
+        margin-left: 5px;
+    }
     
 }
