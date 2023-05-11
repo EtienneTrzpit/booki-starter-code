@@ -348,14 +348,12 @@ a[href="#"] p{
     font-size: 14px;
 }
 
-/*****Populaires***********
-auteur: Etienne Trzpit****/
 
 /****Activités***********
 auteur: Etienne Trzpit***/
 
 .header-activites{
-    margin-left: 20px;
+    margin-left: 30px;
     margin-top: 50px;
 }
 
@@ -369,7 +367,7 @@ auteur: Etienne Trzpit***/
 .activites-card{
     border: thin solid var(--main-bg-color);
     border-radius: 25px;
-    flex-basis: 22%;
+    flex-basis: calc(22% - 10px);
     margin: 0px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
