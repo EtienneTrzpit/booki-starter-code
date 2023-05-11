@@ -321,7 +321,7 @@ auteur: Etienne Trzpit****/
     height: 210px;
 }
 
-.card-title, .card-subtitle, .card-rating{
+.card-title, .populaires-cards .card-subtitle, .card-subtitle, .card-rating{
     margin: 5px;
 }
 
