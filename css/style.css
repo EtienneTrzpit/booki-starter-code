@@ -164,10 +164,6 @@ a[href="#hebergements"]{
     text-decoration: none;
 }
 
-.nav ul >li{
-    display:inline-block;
-}
-
 .nav-item:hover{
     border-top: medium solid rgb(0,0,0);
 }
@@ -187,7 +183,7 @@ a[href="#hebergements"]{
 /*******Form***************
 auteur: Etienne Trzpit*****/
 
-form > i {
+.formulaire > i {
     border: 1px solid var(--main-bg-color);
     border-radius: 20px 0px 0px 20px;
     width: 10px;
@@ -195,7 +191,7 @@ form > i {
     background-color: #F2F2F2;
 }
 
-form{
+.formulaire{
     margin-top: 50px;
     display: flex;
 }
@@ -490,11 +486,7 @@ auteur: Etienne Trzpit*/
         content: url("../images/logo/Booki@3x.png");
     }
 
-    nav{
-        width: 100%;
-    }
-
-    .nav-list{
+    .navigation{
         width: 100%;
     }
 
@@ -570,10 +562,6 @@ auteur: Etienne Trzpit*/
         width: 100%;
     }
 
-    form{
-        justify-content: center;
-    }
-
     .filter-buttons{
         justify-content: center;
         display: flex;
@@ -641,11 +629,11 @@ auteur: Etienne Trzpit*/
         padding-bottom: 20px;
     }
 
-    form{
+    .formulaire{
         margin: 40px 25px 0px 25px;
     }
 
-    form > i {
+    .formulaire > i {
         width: 10%;
         padding: 0px;
         text-align: center;
