@@ -313,7 +313,7 @@ auteur: Etienne Trzpit****/
 }
 
 .hebergements .card{
-    width: 30%;
+    width: calc(33% - 30px);
     height: 210px;
 }
 
