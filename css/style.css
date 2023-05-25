@@ -503,10 +503,6 @@ auteur: Etienne Trzpit*/
         align-items: center;
     }
 
-    .header-logo{
-        content: url("../images/logo/Booki@3x.png");
-    }
-
     .navigation{
         width: 100%;
     }
