@@ -240,9 +240,10 @@ auteur: Etienne Trzpit****/
     margin-top: 30px;
 }
 
-.filter-title{
+.filter-text{
     font-size: 18px;
     margin-right: 10px;
+    font-weight: bold;
 }
 
 .filter i{
@@ -597,7 +598,7 @@ auteur: Etienne Trzpit*/
         text-align: left;
     }
 
-    .filter-title{
+    .filter-text{
         margin-left: 25px;
         margin-top: 0px;
     }
