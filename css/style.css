@@ -120,6 +120,10 @@ body {
 /*******Titre**************
 auteur: Etienne Trzpit******/
 
+.section-title{
+    text-align: left;
+}
+
 .title{
     margin-top: 60px;
 }
@@ -179,6 +183,7 @@ a[href="#hebergements"]{
     padding-left: 0px;
     
 }
+
 
 /*******Form***************
 auteur: Etienne Trzpit*****/
