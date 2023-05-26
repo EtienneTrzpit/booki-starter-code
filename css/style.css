@@ -504,6 +504,10 @@ auteur: Etienne Trzpit*/
         align-items: center;
     }
 
+    .header-logo{
+        margin-bottom: 15px;
+    }
+
     .navigation{
         width: 100%;
     }
