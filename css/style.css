@@ -319,7 +319,7 @@ auteur: Etienne Trzpit****/
 }
 
 .hebergements .card{
-    width: calc(33% - 30px);
+    width: calc(33.33% - 30px);
     height: 210px;
 }
 
@@ -369,7 +369,7 @@ auteur: Etienne Trzpit***/
 .activites-card{
     border: thin solid var(--main-bg-color);
     border-radius: 25px;
-    flex-basis: calc(22% - 10px);
+    flex-basis: calc(25% - 40px);
     margin: 0px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -677,6 +677,8 @@ auteur: Etienne Trzpit*/
 
     .form-search{
         width: 80%;
+        text-align: left;
+        padding-left: 30px;
     }
 
     .form-button::after{
