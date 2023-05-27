@@ -223,6 +223,7 @@ auteur: Etienne Trzpit*****/
     font-family: 'Raleway';
     font-size: 18px;
     font-weight: bold;
+    margin-right: -10px;
 }
 
 .form-search::placeholder{
