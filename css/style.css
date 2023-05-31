@@ -161,6 +161,7 @@ auteur: Etienne Trzpit ************/
 
 a[href="#activites"]{
     text-decoration: none;
+    color: black;
 }
 
 a[href="#hebergements"]{
@@ -230,6 +231,11 @@ auteur: Etienne Trzpit*****/
 
 .form-search::placeholder{
     color: black;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #666;
+    opacity:  1;
 }
 
 .icon--blue{
