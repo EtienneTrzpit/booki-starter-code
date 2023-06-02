@@ -528,7 +528,7 @@ auteur: Etienne Trzpit*/
         overflow-x: hidden;
       }
       body {
-        position: relative
+        position: relative;
       }
 
     .main-container{
@@ -588,7 +588,7 @@ auteur: Etienne Trzpit*/
     }
 
     .info p{
-        margin-top: 25px;
+        margin-top: 10px;
     }
 
     .hebergements-and-populaires{
@@ -607,10 +607,12 @@ auteur: Etienne Trzpit*/
 
     .hebergements-cards{
         flex-direction: column;
+        margin-left: -10px;
     }
 
     .populaires-cards{
         flex-direction: column;
+        margin-left: -10px;
     }
 
     .activites{
@@ -668,16 +670,21 @@ auteur: Etienne Trzpit*/
         background-color: white;
     }
 
-    .hebergements > a{
-        margin-left: 0px;
+    .hebergements-plus{
+        margin-left: -5px;
     }
 
     .section-title{
+        margin-left: -5px;
+    }
+
+    .first-title{
         margin-left: 10px;
     }
 
     .header-activites{
         margin-left: 40px;
+        margin-bottom: -30px;
     }
 
     .activites-content{
@@ -737,10 +744,6 @@ auteur: Etienne Trzpit*/
 
     .form-button{
         border-radius: 10px;
-    }
-
-    .info i{
-        margin-top: 23px;
     }
 
     .populaires-title{
