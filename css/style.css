@@ -506,10 +506,16 @@ auteur: Etienne Trzpit*/
 
     .filter-buttons{
         margin-left: -10px;
+        margin-right: -30px;
     }
 
     .activites-card img{
         height: 200px;
+    }
+
+    .footer-bloc{
+        padding-left: 20px;
+        padding-right: 0px;
     }
     
 }
@@ -517,6 +523,13 @@ auteur: Etienne Trzpit*/
 /* Small devices (phones, less than 768px) 
 auteur: Etienne Trzpit*/
 @media (max-width: 767.98px) {
+
+    html, body {
+        overflow-x: hidden;
+      }
+      body {
+        position: relative
+      }
 
     .main-container{
         padding: 0px;
@@ -628,6 +641,11 @@ auteur: Etienne Trzpit*/
         flex-basis: 45%;
         margin: 5px 5px 10px 5px;
         padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .filter-buttons i{
+        margin-right: 5px;
     }
 
     .filter-text{
@@ -672,6 +690,7 @@ auteur: Etienne Trzpit*/
 
     .footer-bloc{
         width: 100%;
+        padding-left: 40px;
     }
 
     .footer-bloc h3{
